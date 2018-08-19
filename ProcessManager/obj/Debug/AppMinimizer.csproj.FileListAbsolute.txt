@@ -1,0 +1,10 @@
+C:\Users\Deny\source\repos\AppMinimizer\AppMinimizer\bin\Debug\AppMinimizer.exe.config
+C:\Users\Deny\source\repos\AppMinimizer\AppMinimizer\bin\Debug\AppMinimizer.exe
+C:\Users\Deny\source\repos\AppMinimizer\AppMinimizer\bin\Debug\AppMinimizer.pdb
+C:\Users\Deny\source\repos\AppMinimizer\AppMinimizer\obj\Debug\AppMinimizer.csprojAssemblyReference.cache
+C:\Users\Deny\source\repos\AppMinimizer\AppMinimizer\obj\Debug\AppMinimizer.Properties.Resources.resources
+C:\Users\Deny\source\repos\AppMinimizer\AppMinimizer\obj\Debug\AppMinimizer.csproj.GenerateResource.cache
+C:\Users\Deny\source\repos\AppMinimizer\AppMinimizer\obj\Debug\AppMinimizer.csproj.CoreCompileInputs.cache
+C:\Users\Deny\source\repos\AppMinimizer\AppMinimizer\obj\Debug\AppMinimizer.exe
+C:\Users\Deny\source\repos\AppMinimizer\AppMinimizer\obj\Debug\AppMinimizer.pdb
+C:\Users\Deny\source\repos\AppMinimizer\AppMinimizer\obj\Debug\AppMinimizer.ProcessManagerFrm.resources

@@ -1,0 +1,10 @@
+C:\Users\Deny\source\repos\ProcessManager\ProcessManager\bin\Debug\AppMinimizer.exe.config
+C:\Users\Deny\source\repos\ProcessManager\ProcessManager\bin\Debug\AppMinimizer.exe
+C:\Users\Deny\source\repos\ProcessManager\ProcessManager\bin\Debug\AppMinimizer.pdb
+C:\Users\Deny\source\repos\ProcessManager\ProcessManager\obj\Debug\ProcessManager.csprojAssemblyReference.cache
+C:\Users\Deny\source\repos\ProcessManager\ProcessManager\obj\Debug\AppMinimizer.ProcessManagerFrm.resources
+C:\Users\Deny\source\repos\ProcessManager\ProcessManager\obj\Debug\AppMinimizer.Properties.Resources.resources
+C:\Users\Deny\source\repos\ProcessManager\ProcessManager\obj\Debug\ProcessManager.csproj.GenerateResource.cache
+C:\Users\Deny\source\repos\ProcessManager\ProcessManager\obj\Debug\ProcessManager.csproj.CoreCompileInputs.cache
+C:\Users\Deny\source\repos\ProcessManager\ProcessManager\obj\Debug\AppMinimizer.exe
+C:\Users\Deny\source\repos\ProcessManager\ProcessManager\obj\Debug\AppMinimizer.pdb
